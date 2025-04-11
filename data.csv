@@ -1,0 +1,103 @@
+timestamp,city,temperature,humidity,pressure,description,wind_speed
+2025-04-10 15:34,New York,5.35,54,1027,overcast clouds,1.23
+2025-04-10 15:34,London,10.04,67,1032,few clouds,2.12
+2025-04-10 15:34,Delhi,39.75,12,999,overcast clouds,0.12
+2025-04-10 15:44,New York,5.37,54,1027,overcast clouds,1.23
+2025-04-10 15:44,London,9.86,71,1032,few clouds,2.12
+2025-04-10 15:44,Delhi,39.75,12,999,overcast clouds,0.12
+2025-04-10 15:52,New York,5.37,54,1027,overcast clouds,1.23
+2025-04-10 15:52,London,9.86,71,1032,few clouds,2.12
+2025-04-10 15:52,Delhi,39.75,12,999,overcast clouds,0.12
+2025-04-10 15:53,New York,5.37,54,1027,overcast clouds,1.23
+2025-04-10 15:53,London,9.86,71,1032,few clouds,2.12
+2025-04-10 15:53,Delhi,39.75,12,999,overcast clouds,0.12
+2025-04-10 15:54,New York,5.37,54,1027,overcast clouds,1.23
+2025-04-10 15:54,London,9.86,71,1032,few clouds,2.12
+2025-04-10 15:54,Delhi,39.75,12,999,overcast clouds,0.12
+2025-04-11 09:14,Delhi,31.01,30,1004,few clouds,4.74
+2025-04-11 09:14,Mumbai,27.61,71,1010,clear sky,3.2
+2025-04-11 09:15,Delhi,31.01,30,1004,few clouds,4.74
+2025-04-11 09:15,Mumbai,27.61,71,1010,clear sky,3.2
+2025-04-11 09:15,Delhi,31.01,30,1004,few clouds,4.74
+2025-04-11 09:15,Mumbai,27.61,71,1010,clear sky,3.2
+2025-04-11 09:16,Delhi,31.01,30,1004,few clouds,4.74
+2025-04-11 09:16,Mumbai,27.61,71,1010,clear sky,3.2
+2025-04-11 09:18,Delhi,31.01,30,1004,few clouds,4.74
+2025-04-11 09:18,New York,6.24,70,1024,overcast clouds,5.21
+2025-04-11 09:18,London,6.06,86,1025,clear sky,1.67
+2025-04-11 09:19,Delhi,31.01,30,1004,few clouds,4.74
+2025-04-11 09:19,New York,6.23,70,1024,overcast clouds,5.21
+2025-04-11 09:19,London,6.06,86,1025,clear sky,1.67
+2025-04-11 09:20,Delhi,31.01,30,1004,few clouds,4.74
+2025-04-11 09:20,New York,6.23,70,1024,overcast clouds,5.21
+2025-04-11 09:20,London,6.06,86,1025,clear sky,1.67
+2025-04-11 09:21,Delhi,31.01,30,1004,few clouds,4.74
+2025-04-11 09:21,New York,6.24,70,1024,overcast clouds,5.21
+2025-04-11 09:21,London,6.01,87,1025,clear sky,1.67
+2025-04-11 09:22,Delhi,31.01,30,1004,few clouds,4.74
+2025-04-11 09:22,New York,6.24,70,1024,overcast clouds,5.21
+2025-04-11 09:22,London,6.01,87,1025,clear sky,1.67
+2025-04-11 09:23,Delhi,31.01,30,1004,few clouds,4.74
+2025-04-11 09:23,New York,6.24,70,1024,overcast clouds,5.21
+2025-04-11 09:23,London,6.01,87,1025,clear sky,1.67
+2025-04-11 09:24,Delhi,31.01,30,1004,few clouds,4.74
+2025-04-11 09:24,New York,6.23,70,1024,overcast clouds,5.21
+2025-04-11 09:24,London,6.01,87,1025,clear sky,1.67
+2025-04-11 09:25,Delhi,31.01,30,1004,few clouds,4.74
+2025-04-11 09:25,New York,6.23,70,1024,overcast clouds,5.21
+2025-04-11 09:25,London,6.01,87,1025,clear sky,1.67
+2025-04-11 09:26,Delhi,31.01,30,1004,few clouds,4.74
+2025-04-11 09:26,New York,6.23,70,1024,overcast clouds,5.21
+2025-04-11 09:26,London,6.01,87,1025,clear sky,1.67
+2025-04-11 09:27,Delhi,31.01,30,1004,few clouds,4.74
+2025-04-11 09:27,New York,6.23,70,1024,overcast clouds,5.21
+2025-04-11 09:27,London,6.01,87,1025,clear sky,1.67
+2025-04-11 09:28,Delhi,31.01,30,1004,few clouds,4.74
+2025-04-11 09:28,New York,6.23,70,1024,overcast clouds,5.21
+2025-04-11 09:28,London,6.01,87,1025,clear sky,1.67
+2025-04-11 09:29,Delhi,31.01,30,1004,few clouds,4.74
+2025-04-11 09:29,New York,6.23,70,1024,overcast clouds,5.21
+2025-04-11 09:29,London,6.01,87,1025,clear sky,1.67
+2025-04-11 09:30,Delhi,31.01,30,1004,few clouds,4.74
+2025-04-11 09:30,New York,6.23,70,1024,overcast clouds,5.21
+2025-04-11 09:30,London,6.01,87,1025,clear sky,1.67
+2025-04-11 09:31,Delhi,31.01,30,1004,few clouds,4.74
+2025-04-11 09:31,New York,6.23,70,1024,overcast clouds,5.21
+2025-04-11 09:31,London,6.01,87,1025,clear sky,1.67
+2025-04-11 09:32,Delhi,31.01,30,1004,few clouds,4.74
+2025-04-11 09:32,New York,6.23,70,1024,overcast clouds,5.21
+2025-04-11 09:32,London,6.01,87,1025,clear sky,1.67
+2025-04-11 09:33,Delhi,31.01,30,1004,few clouds,4.74
+2025-04-11 09:33,New York,6.23,70,1024,overcast clouds,5.21
+2025-04-11 09:33,London,6.01,87,1025,clear sky,1.67
+2025-04-11 09:34,Delhi,31.01,30,1004,few clouds,4.74
+2025-04-11 09:34,New York,6.23,70,1024,overcast clouds,5.21
+2025-04-11 09:34,London,6.01,87,1025,clear sky,1.67
+2025-04-11 09:35,Delhi,31.01,30,1004,few clouds,4.74
+2025-04-11 09:35,New York,6.23,70,1024,overcast clouds,5.21
+2025-04-11 09:35,London,6.01,87,1025,clear sky,1.67
+2025-04-11 09:36,Delhi,31.01,30,1004,few clouds,4.74
+2025-04-11 09:36,New York,6.23,70,1024,overcast clouds,5.21
+2025-04-11 09:36,London,6.01,87,1025,clear sky,1.67
+2025-04-11 09:37,Delhi,31.01,30,1004,few clouds,4.74
+2025-04-11 09:37,New York,6.23,70,1024,overcast clouds,5.21
+2025-04-11 09:37,London,6.01,87,1025,clear sky,1.67
+2025-04-11 09:38,Delhi,31.01,30,1004,few clouds,4.74
+2025-04-11 09:38,New York,6.23,70,1024,overcast clouds,5.21
+2025-04-11 09:38,London,6.01,87,1025,clear sky,1.67
+2025-04-11 09:39,Delhi,31.01,30,1004,few clouds,4.74
+2025-04-11 09:39,New York,6.23,70,1024,overcast clouds,5.21
+2025-04-11 09:39,London,6.01,87,1025,clear sky,1.67
+2025-04-11 09:41,Delhi,31.01,30,1004,few clouds,4.74
+2025-04-11 09:41,Usa,18.32,94,1014,broken clouds,0.8
+2025-04-11 09:41,Delhi,31.01,30,1004,few clouds,4.74
+2025-04-11 09:42,Usa,18.32,94,1014,broken clouds,0.8
+2025-04-11 09:42,Delhi,31.01,30,1004,few clouds,4.74
+2025-04-11 09:43,Usa,18.32,94,1014,broken clouds,0.8
+2025-04-11 09:43,Delhi,31.01,30,1004,few clouds,4.74
+2025-04-11 09:46,Usa,18.32,94,1014,broken clouds,0.8
+2025-04-11 10:00,Usa,19.91,91,1015,broken clouds,1.25
+2025-04-11 10:33,Usa,19.91,91,1015,broken clouds,1.25
+2025-04-11 10:33,London,4.32,90,1024,clear sky,1.87
+2025-04-11 10:34,Usa,19.91,91,1015,broken clouds,1.25
+2025-04-11 10:34,London,4.32,90,1024,clear sky,1.87
