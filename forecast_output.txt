@@ -1,0 +1,4 @@
+
+📍 City: Delhi
+🌡️ Predicted Temperature (Next Hour): 31.01 °C
+👕 Outfit Suggestion: 😎 It's warm! T-shirt weather.
